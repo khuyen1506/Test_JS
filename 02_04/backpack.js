@@ -1,3 +1,4 @@
+// cach viet ham theo Arrow function
 const updateBackpack = (update) => {
   let main = document.querySelector("main");
   main.innerHTML = markup(backpack);

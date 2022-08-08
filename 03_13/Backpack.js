@@ -20,7 +20,7 @@ class Backpack {
     this.lidOpen = lidOpen;
     this.dateAcquired = dateAcquired;
   }
-  toggleLid(lidStatus) {
+  aspectLid(lidStatus) {
     this.lidOpen = lidStatus;
   }
   newStrapLength(lengthLeft, lengthRight) {

@@ -45,7 +45,7 @@ const content = `
         everydayPack.lidOpen
       }</span></li>
     </ul>
-  </article>
-`;
+  </article>`
+;
 
 main.innerHTML = content;

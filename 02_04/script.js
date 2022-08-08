@@ -2,7 +2,7 @@
  * Create a Backpack object, populate some HTML to display its properties.
  */
 import backpack from "./backpack.js";
-
+//  khai bao bien theo phuong phap arrow function
 const markup = (backpack) => {
   return `
   <div>
